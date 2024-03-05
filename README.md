@@ -6,7 +6,7 @@
 Kode ini dirancang dan dijalankan menggunakan:
 
 - IntelliJ IDEA 2023.3.1 (Community Edition) - Text/Code Editor
-- Chrome Browser
+- Edge Browser
 
 ## Requirements
 
